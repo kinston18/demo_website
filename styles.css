@@ -2,9 +2,12 @@
 
 :root
 {
-  --primary-color :  #1e40af;
+  --primary-color :  #22A39F;
+  --secondary-color : #222222;
+  --tertiary-color : #F3EFE0;
 }
 
+  
 body{
     font-family: 'NotoSans',sans-serif;
     padding: 0.5rem;
